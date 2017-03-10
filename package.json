@@ -1,0 +1,13 @@
+{
+  "name": "ciao",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "description": "test app for stage-ci",
+  "main": "index.js",
+  "license": "MIT"
+}
